@@ -1,8 +1,8 @@
 # One Day in Paper — 19 November 2026
 
 [![make.fun](https://make.fun/badge/news-image-20261119.svg)](https://make.fun/bounty/news-image-20261119)
-[![Rank](https://make.fun/badge/endog-ai/makefun-news-image-20261119-popup/rank.svg)](https://make.fun/bounty/news-image-20261119)
-[![Reward](https://make.fun/badge/endog-ai/makefun-news-image-20261119-popup/reward.svg)](https://make.fun/bounty/news-image-20261119)
+[![Rank](https://make.fun/badge/news-image-20261119/endog-ai/makefun-news-image-20261119-popup/rank.svg)](https://make.fun/bounty/news-image-20261119)
+[![Reward](https://make.fun/badge/news-image-20261119/endog-ai/makefun-news-image-20261119-popup/reward.svg)](https://make.fun/bounty/news-image-20261119)
 
 A 3D paper-craft pop-up book that sums up the world news of **Thursday 19
 November 2026** in a single image. Opening the book opens the whole day:
